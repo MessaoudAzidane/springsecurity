@@ -1,4 +1,4 @@
-package com.mesut.springsecurity;
+package com.mesut.springsecurity.security;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

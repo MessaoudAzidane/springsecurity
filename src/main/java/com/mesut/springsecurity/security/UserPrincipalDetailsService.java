@@ -1,4 +1,4 @@
-package com.mesut.springsecurity;
+package com.mesut.springsecurity.security;
 
 import com.mesut.springsecurity.db.UserRepository;
 import com.mesut.springsecurity.model.User;
